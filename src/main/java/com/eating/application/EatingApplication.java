@@ -8,7 +8,7 @@ public class EatingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EatingApplication.class, args);
-		System.out.println("hi");
+		System.out.println("hiss");
 	}
 
 }
